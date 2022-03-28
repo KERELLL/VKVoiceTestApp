@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VKVoiceTestApp</string>
+    <string name="timer">00:00</string>
+    <integer name="com_vk_sdk_AppId">202</integer>
+</resources>
